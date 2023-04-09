@@ -1,0 +1,18 @@
+.container-fluid{
+  background-color: #e3f2fd;
+}
+
+.navbar-brand{
+  background-color: white;
+}
+
+.mainpage_h1,
+.mainpage_h2{
+  background-color: white;
+}
+.mainpage_background{
+  background-image: url("../images/붕어빵.jpg");
+  background-size: 100px 50px;
+  background-attachment: scroll; 
+  background-repeat: repeat;
+}
